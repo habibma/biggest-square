@@ -204,3 +204,5 @@ Check for memory leaks and errors in program execution.
 ## Author
 
 Created as a programming exercise to practice dynamic programming and C memory management.
+
+You can read the step-by-step article about how I built this program in C on Medium: [How I Built BSQ in C Step by Step](https://medium.com/@habib.motavassel/how-i-built-bsq-in-c-step-by-step-3d81aa6fe842)
